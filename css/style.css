@@ -1,0 +1,44 @@
+.body {
+  display: flex;
+  flex-direction: row;
+  display: block;
+}
+.header {
+  font-family: "Rubik", sans-serif;
+  top: 0;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.h2 {
+  text-align: center;
+}
+.main {
+  font-size: 30px;
+  box-sizing: content-box;
+  position: center;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+  margin: 10%;
+}
+
+.title {
+  color: #ffffff;
+}
+
+.menu {
+  color: #4a4a4a;
+  font-size: 16px;
+}
+.logo {
+  width: 155px;
+}
+
+.main {
+  background-color: #3cdbc0;
+  width: 100%;
+  height: 100%;
+}
